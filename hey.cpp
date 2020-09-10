@@ -23,7 +23,7 @@ int main()
 
   cout << "you have " << chair_count << " chairs" << endl;
 
-  string sleep = "what if i told your that your name is wrong";
+  string sleep = "what if i told you that your name is wrong";
   cout << sleep << endl;
 
 
