@@ -14,13 +14,13 @@ int main()
         cin >> answer;
         cout << "no" << endl;
       }
-    if (ran == 2)
+    else if (ran == 2)
       {
         cout << "what is your question: " << endl;
         cin >> answer;
         cout << "yes" << endl;
       }
-    if (ran == 3)
+    else (ran == 3)
       {
         cout << "what is your question: " << endl;
         cin >> answer;
